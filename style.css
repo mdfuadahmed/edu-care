@@ -2,3 +2,15 @@
 .cr-img{
 
 }
+
+
+/* social icon style  */
+.social-icon{
+    text-align: center;
+    margin-top: 40px;
+}
+.social-icon i{
+    color: white;
+    font-size: 30px;
+    margin: 0 10px;
+}
