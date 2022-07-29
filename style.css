@@ -1,3 +1,10 @@
+/* media query for showing button in carousol on mobile devices  */
+@media screen and (max-width:767px) {
+    .carousel-inner .carousel-item .cr-img{
+        height: 500px;
+      
+    }
+}
 
 /* social icon style  */
 .social-icon{
